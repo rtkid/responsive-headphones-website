@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "responsive-headphones-website",
+  publicPath: "/responsive-headphones-website/",
 };
